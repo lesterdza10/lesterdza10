@@ -462,7 +462,6 @@ Worked in fast-paced collaborative environments to transform innovative ideas in
 
 </div>
 
-> **Note:** After creating this README, configure the GitHub Action that generates the snake animation. Otherwise, this image will not appear.
 
 ---
 
