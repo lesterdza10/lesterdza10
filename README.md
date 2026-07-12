@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://lesterdza10.github.io">
+<a href="joylon-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge"/>
 </a>
 
